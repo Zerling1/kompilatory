@@ -1,0 +1,15 @@
+- martin:
+    name: Martin
+    surname: Dvloper
+    job: Developer
+    skills: python
+- tabitha:
+    name: Tabitha
+    surname: Bitumen
+    job: Developer
+    skills: lisp
+- Ktos:
+      name: Tabitha
+      surname: Bitumen
+      job: Developer
+      skills: lisp
